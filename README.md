@@ -1,0 +1,1 @@
+This is a project for our university course Parallel and Distributed Computing (PDC). This code is part of a research report in which we compared and conntrast 3 different type of paralleliszation techniques on K-mean clustering algorithm to see its effects on Image Reductionn
